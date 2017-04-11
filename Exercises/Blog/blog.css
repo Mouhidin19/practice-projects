@@ -1,0 +1,32 @@
+body {
+	margin: 0;
+}
+
+ul{
+	display: flex;
+	justify-content: space-between;
+}	
+
+li {
+	list-style: none;
+	display: inline;
+	margin-right: 30px;
+}
+nav {
+	background-color: dodgerblue;
+	width: 100%;
+	 position: fixed;
+	
+}
+.blog1{
+	background-color: red;
+  width: 50%;
+  height: 100px;
+  padding: 10px;
+  padding-top: 50px;
+  text-align: center;
+	  position:static;
+	margin: auto ;
+	
+}
+ 
